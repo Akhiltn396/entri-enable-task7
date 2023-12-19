@@ -1,0 +1,20 @@
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button {
+  display: flex;
+  gap: 20px;
+}
+
+.btn {
+  background-color: lightgreen;
+  border: none;
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+  border: 2px solid brown;
+  cursor: pointer;
+}
